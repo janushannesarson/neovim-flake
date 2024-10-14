@@ -10,7 +10,7 @@
      servers = {
 	rust_analyzer.enable = true;
      };
-   }
+   };
 
    opts = {
       number = true;
